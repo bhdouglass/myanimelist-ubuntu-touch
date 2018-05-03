@@ -1,10 +1,10 @@
 [
     {
         "protocol": "https",
-        "domain-suffix": "mangadex.org"
+        "domain-suffix": "myanimelist.net"
     },
     {
         "protocol": "http",
-        "domain-suffix": "mangadex.org"
+        "domain-suffix": "myanimelist.net"
     },
 ]
