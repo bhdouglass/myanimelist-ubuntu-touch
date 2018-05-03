@@ -1,0 +1,16 @@
+{
+    "name": "myanimelist.bhdouglass",
+    "description": "Unofficial webapp for MyAnimeList",
+    "architecture": "@CLICK_ARCH@",
+    "title": "MyAnimeList",
+    "hooks": {
+        "myanimelist": {
+            "apparmor": "myanimelist.apparmor",
+            "desktop":  "myanimelist.desktop",
+            "urls": "myanimelist.url-dispatcher"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Brian Douglass <bhdouglass@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}

@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: myanimelist.bhdouglass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-03 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:157
+msgid "Home"
+msgstr ""
+
+#: ../qml/Main.qml:162
+msgid "Anime List"
+msgstr ""
+
+#: ../qml/Main.qml:167
+msgid "Manga List"
+msgstr ""
+
+#: ../qml/Main.qml:172 ../qml/Main.qml:198
+msgid "Settings"
+msgstr ""
+
+#: ../qml/Main.qml:212
+msgid "MAL username"
+msgstr ""
+
+#: ../qml/Main.qml:225
+msgid "Default Anime List"
+msgstr ""
+
+#: ../qml/Main.qml:227 ../qml/Main.qml:240
+msgid "All"
+msgstr ""
+
+#: ../qml/Main.qml:228
+msgid "Watching"
+msgstr ""
+
+#: ../qml/Main.qml:229 ../qml/Main.qml:242
+msgid "Completed"
+msgstr ""
+
+#: ../qml/Main.qml:230 ../qml/Main.qml:243
+msgid "On Hold"
+msgstr ""
+
+#: ../qml/Main.qml:231 ../qml/Main.qml:244
+msgid "Dropped"
+msgstr ""
+
+#: ../qml/Main.qml:232
+msgid "Plan to Watch"
+msgstr ""
+
+#: ../qml/Main.qml:238
+msgid "Default Manga List"
+msgstr ""
+
+#: ../qml/Main.qml:241
+msgid "Reading"
+msgstr ""
+
+#: ../qml/Main.qml:245
+msgid "Plan to Read"
+msgstr ""
+
+#: ../qml/Main.qml:250
+msgid "OK"
+msgstr ""
+
+#: myanimelist.desktop.in.h:1
+msgid "MyAnimeList"
+msgstr ""

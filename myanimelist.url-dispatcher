@@ -1,0 +1,10 @@
+[
+    {
+        "protocol": "https",
+        "domain-suffix": "mangadex.org"
+    },
+    {
+        "protocol": "http",
+        "domain-suffix": "mangadex.org"
+    },
+]
