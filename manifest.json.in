@@ -10,7 +10,7 @@
             "urls": "myanimelist.url-dispatcher"
         }
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "maintainer": "Brian Douglass <bhdouglass@gmail.com>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
